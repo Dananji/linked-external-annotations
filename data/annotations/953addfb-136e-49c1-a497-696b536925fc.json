@@ -1,0 +1,87 @@
+{
+  "event_id": "9ebfa6d5-cbd0-4b15-9a60-5f389ec5de9d",
+  "source_id": "473f8181-a54d-400c-85cc-401771e9882e",
+  "set": "Evelyn Werner",
+  "annotations": [
+    {
+      "start_time": 1738.028537,
+      "end_time": 104700,
+      "annotation": [
+        {
+          "text": "Evelyn Werner, 32."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Evelyn Werner"
+        }
+      ],
+      "uuid": "6112c234-50e0-4d3d-bf62-157a78f1ea35"
+    },
+    {
+      "start_time": 104760,
+      "end_time": 104760,
+      "annotation": [
+        {
+          "text": "I was born and raised in Jacksonville, studied voice in Chicago but never went to college."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Evelyn Werner"
+        }
+      ],
+      "uuid": "cfcd80ac-1fec-4440-bd8f-0bf7c97c8ff3"
+    },
+    {
+      "start_time": 105480,
+      "end_time": 105480,
+      "annotation": [
+        {
+          "text": "Yes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Evelyn Werner"
+        }
+      ],
+      "uuid": "b9b60650-d95d-434a-b915-ccdafb5e1038"
+    },
+    {
+      "start_time": 105900,
+      "end_time": 105900,
+      "annotation": [
+        {
+          "text": "Well, as far as the life goes, yes but I'd go to Philadelphia for a while and come back and go to Chicago for a while and come back."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Evelyn Werner"
+        }
+      ],
+      "uuid": "880b2ba0-16de-46cd-a0f3-eefe2a16a9fd"
+    },
+    {
+      "start_time": 107100,
+      "end_time": 107100,
+      "annotation": [
+        {
+          "text": "Well, this story was told to me two years ago by one of the heirs to the Reed Plantation, Mulberry Grove, which is just south of Jacksonville. She said that right after the war when the slaves were freed she gave, she told Mariah the cook of her freedom and gave her the house at the end of the field to live in. So Mariah and all of her children set out and the youngest and the tiniest at the end of the line would fall down and get up, fall down again and get up.  So Mrs. Pearson called to Mariah and said, 'You're losing one of your children, Mariah'. And Mariah turned back and said, 'You can have that one, Miss. Pearson, if you wants it.' That's all."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Evelyn Werner"
+        }
+      ],
+      "uuid": "6f2bc228-1f25-4fdb-a268-351f6e47cd7b"
+    }
+  ]
+}

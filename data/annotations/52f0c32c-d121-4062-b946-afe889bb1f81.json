@@ -1,0 +1,199 @@
+{
+  "event_id": "9ebfa6d5-cbd0-4b15-9a60-5f389ec5de9d",
+  "source_id": "473f8181-a54d-400c-85cc-401771e9882e",
+  "set": "Irene Jackson",
+  "annotations": [
+    {
+      "start_time": 2529.541016,
+      "end_time": 2530.862603,
+      "annotation": [
+        {
+          "text": "Irene Jackson"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "ac8f39b7-cf7f-42d9-b573-c1b929292a3b"
+    },
+    {
+      "start_time": 2532.257231,
+      "end_time": 2534.271694,
+      "annotation": [
+        {
+          "text": "I'll be 40 my next birthday."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "e3e23b92-3cca-4009-915f-a37e10e47913"
+    },
+    {
+      "start_time": 2537.13843,
+      "end_time": 2538.610537,
+      "annotation": [
+        {
+          "text": "In South Jacksonville, FL."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "631acfae-a335-4455-80ba-8b252596a504"
+    },
+    {
+      "start_time": 2543.104339,
+      "end_time": 2543.104339,
+      "annotation": [
+        {
+          "text": "It's just a play we used to have when we were children and we would be playing church and then rather than sing church songs, we'd make up our songs and we called it our 'play church'."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "33e73ee6-e916-41a8-854c-78f84939d311"
+    },
+    {
+      "start_time": 2563.248967,
+      "end_time": 2565.030992,
+      "annotation": [
+        {
+          "text": "No, I was just playing with it since then."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "b3c0c902-4fa9-4438-90c8-72a69ca237e3"
+    },
+    {
+      "start_time": 2570.067149,
+      "end_time": 2570.067149,
+      "annotation": [
+        {
+          "text": "Yes, I could."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "bbd78ed0-1026-4d42-a414-52016be1e8f7"
+    },
+    {
+      "start_time": 2573.321281,
+      "end_time": 2573.321281,
+      "annotation": [
+        {
+          "text": "Yes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "a0b0e56a-16da-4975-9c81-3f61ec4c782b"
+    },
+    {
+      "start_time": 2574.715909,
+      "end_time": 2574.715909,
+      "annotation": [
+        {
+          "text": "[Bang] Oh my god."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "b61aa6b1-96c1-4062-9a16-2947d0417110"
+    },
+    {
+      "start_time": 2653.709122,
+      "end_time": 2664.519305,
+      "annotation": [
+        {
+          "text": "Well, we would be having service and it was time for our preacher to preach though. He couldn't preach out the bible so we'd just take a word and add on and go to preaching. We'd be out in the yard."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "8056c8b5-ff30-414e-a766-2809ca41512c"
+    },
+    {
+      "start_time": 2667.768595,
+      "end_time": 2668.301265,
+      "annotation": [
+        {
+          "text": "No, we'd be out in the yard."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "d8144fc4-f506-4d04-810a-1a62bf29a0ed"
+    },
+    {
+      "start_time": 2669.318182,
+      "end_time": 2669.51188,
+      "annotation": [
+        {
+          "text": "Clean."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "5c0964a3-7f09-4229-b185-f6d35e3e3d0d"
+    },
+    {
+      "start_time": 2711.791992,
+      "end_time": 2718.383789,
+      "annotation": [
+        {
+          "text": "The closing part of children's sermon that we used to have."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Jackson"
+        }
+      ],
+      "uuid": "6bbd5373-39b0-4c25-a35a-a3dd8958fb28"
+    }
+  ]
+}

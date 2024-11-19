@@ -1,0 +1,87 @@
+{
+  "event_id": "9ebfa6d5-cbd0-4b15-9a60-5f389ec5de9d",
+  "source_id": "473f8181-a54d-400c-85cc-401771e9882e",
+  "set": "Distortion",
+  "annotations": [
+    {
+      "start_time": 99840,
+      "end_time": 99840,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "dceb9696-7e66-44f7-8f97-148ecb19ba90"
+    },
+    {
+      "start_time": 103440,
+      "end_time": 103440,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "f5e0dbb2-a0a2-4382-86ff-6ed45799bad9"
+    },
+    {
+      "start_time": 116340,
+      "end_time": 116340,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "f207d4e9-b4c7-447d-885f-eb2a56d65111"
+    },
+    {
+      "start_time": 132360,
+      "end_time": 121560,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "f1388ff8-058f-4b2d-941b-896259e03d1f"
+    },
+    {
+      "start_time": 168180,
+      "end_time": 168180,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "57df9a5d-a6b9-4631-b6f4-f4dca24023e5"
+    }
+  ]
+}

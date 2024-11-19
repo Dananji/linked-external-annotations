@@ -1,0 +1,231 @@
+{
+  "event_id": "9ebfa6d5-cbd0-4b15-9a60-5f389ec5de9d",
+  "source_id": "473f8181-a54d-400c-85cc-401771e9882e",
+  "set": "Library of Congress",
+  "annotations": [
+    {
+      "start_time": 2210.876465,
+      "end_time": 2213.07373,
+      "annotation": [
+        {
+          "text": "31,41, A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "9eb70f5d-e751-44ac-9b5c-0175370fc1c2"
+    },
+    {
+      "start_time": 242.317266,
+      "end_time": 242.317266,
+      "annotation": [
+        {
+          "text": "3137 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "d8ec6273-12f2-4b0e-82c3-91aed47c53e9"
+    },
+    {
+      "start_time": 501.775678,
+      "end_time": 505.010331,
+      "annotation": [
+        {
+          "text": "3137 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "1c6c8190-3482-496a-8a75-77b2ad694e66"
+    },
+    {
+      "start_time": 775.448699,
+      "end_time": 777.272727,
+      "annotation": [
+        {
+          "text": "3138 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "e1e10e24-b3ab-47c2-9530-ce46471691b1"
+    },
+    {
+      "start_time": 1040.093352,
+      "end_time": 1042.290806,
+      "annotation": [
+        {
+          "text": "3138 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "d4ff13a9-c04c-44bf-b276-3d6b99bb68a7"
+    },
+    {
+      "start_time": 1316.650391,
+      "end_time": 1320.556641,
+      "annotation": [
+        {
+          "text": "3139 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "9a6f8285-44f8-43b9-b5db-45a62f6ef12a"
+    },
+    {
+      "start_time": 1585.304752,
+      "end_time": 1588.171488,
+      "annotation": [
+        {
+          "text": "3139 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "19d4096f-3920-48a1-8256-6e94369097f3"
+    },
+    {
+      "start_time": 1729.165311,
+      "end_time": 1731.740702,
+      "annotation": [
+        {
+          "text": "3140a 1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "023cbbfa-8246-465b-b151-3466c351b84a"
+    },
+    {
+      "start_time": 1939.758301,
+      "end_time": 1941.709711,
+      "annotation": [
+        {
+          "text": "3140 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "f1779a6f-8a55-4664-8788-33cc8bac1181"
+    },
+    {
+      "start_time": 2210.876465,
+      "end_time": 2213.197314,
+      "annotation": [
+        {
+          "text": "3141 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "d8bbde67-d179-4e52-97a6-92e6d44a7d09"
+    },
+    {
+      "start_time": 2440.917969,
+      "end_time": 2440.917969,
+      "annotation": [
+        {
+          "text": "3141 B1, 2, and 3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "d8c6a47a-1d04-465f-abe6-ba1ad9d4a216"
+    },
+    {
+      "start_time": 2706.377835,
+      "end_time": 2710.614669,
+      "annotation": [
+        {
+          "text": "3142 A1, 2, and 3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "f1b43cce-64b8-4f37-af30-3bfded1a5fa6"
+    },
+    {
+      "start_time": 2975.097656,
+      "end_time": 2979.080579,
+      "annotation": [
+        {
+          "text": "3142, B1, 2, 3, and 4"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "0c77f2d7-870d-413e-829e-9d3380c0cb39"
+    },
+    {
+      "start_time": 3230.268595,
+      "end_time": 3234.917355,
+      "annotation": [
+        {
+          "text": "3143 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "166cbdff-287d-4267-a76c-1f57ddb1ca7c"
+    }
+  ]
+}

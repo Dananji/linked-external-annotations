@@ -1,0 +1,135 @@
+{
+  "event_id": "9ebfa6d5-cbd0-4b15-9a60-5f389ec5de9d",
+  "source_id": "473f8181-a54d-400c-85cc-401771e9882e",
+  "set": "Maggie Fulton",
+  "annotations": [
+    {
+      "start_time": 178800,
+      "end_time": 179400,
+      "annotation": [
+        {
+          "text": "Maggie Fulton"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "bc93c5f5-9d07-4a1a-88db-9e5083d5e2eb"
+    },
+    {
+      "start_time": 3003.051758,
+      "end_time": 3004.803719,
+      "annotation": [
+        {
+          "text": "Maggie Fulton"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "678e75f8-970e-46cb-9282-6621d7da8388"
+    },
+    {
+      "start_time": 3006.062758,
+      "end_time": 3006.740702,
+      "annotation": [
+        {
+          "text": "43"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "fdddea3c-49bd-4922-ae12-3213f14f2052"
+    },
+    {
+      "start_time": 3011.815599,
+      "end_time": 3020.841942,
+      "annotation": [
+        {
+          "text": "Well I learned it at my home in Leesville, South Carolina, a little childhood play. The play goes like this."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "147c86e6-3ac3-4972-86de-de9d992f8d17"
+    },
+    {
+      "start_time": 3040.134298,
+      "end_time": 3044.201963,
+      "annotation": [
+        {
+          "text": "Well, the children would act as if they were flying like the turkeys."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "52f2a4d1-859f-4932-9834-c7a93643fed7"
+    },
+    {
+      "start_time": 3051.717459,
+      "end_time": 3074.070248,
+      "annotation": [
+        {
+          "text": "So they start off playing all over so if you're standing around and one would say 'Little girl, little girl have you been to the barn' and everyone said, yes Ma'am. And they answered 'Did you see my turkey?'' You say 'Yes Ma'am'. And you say 'How high did it fly' and you say 'So high' and then everybody stretched their arms up as if it was the wingspan."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "c443dc27-9fb6-4dbb-bc9a-60b08fbd3a70"
+    },
+    {
+      "start_time": 184320,
+      "end_time": 184320,
+      "annotation": [
+        {
+          "text": "Alright"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "095673d3-fbe8-4d67-816b-18aa3f7b759c"
+    },
+    {
+      "start_time": 184740,
+      "end_time": 184860,
+      "annotation": [
+        {
+          "text": "Just a little barnyard play"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Maggie Fulton"
+        }
+      ],
+      "uuid": "b7dab815-5fe1-4ca7-b507-48c0636b9cbe"
+    }
+  ]
+}

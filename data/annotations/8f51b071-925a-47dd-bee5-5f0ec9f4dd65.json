@@ -1,0 +1,55 @@
+{
+  "event_id": "9ebfa6d5-cbd0-4b15-9a60-5f389ec5de9d",
+  "source_id": "473f8181-a54d-400c-85cc-401771e9882e",
+  "set": "Unknown",
+  "annotations": [
+    {
+      "start_time": 107040,
+      "end_time": 107040,
+      "annotation": [
+        {
+          "text": "Man: Go ahead."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "7ca3b291-1073-4d23-8789-27b694fcfba5"
+    },
+    {
+      "start_time": 1865.29541,
+      "end_time": 1867.919922,
+      "annotation": [
+        {
+          "text": " Educated white woman."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "f1b125db-fab6-4a2d-81fe-6f39ab3fe7d4"
+    },
+    {
+      "start_time": 164820,
+      "end_time": 164820,
+      "annotation": [
+        {
+          "text": "[Laughter]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "78dbadf7-a1b7-4cd7-8d51-86968d7625b3"
+    }
+  ]
+}
