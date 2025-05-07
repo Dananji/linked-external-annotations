@@ -1,0 +1,21 @@
+{
+  "event_id": "0d547d7f-8bb4-49c6-ae3a-c047df9c172e",
+  "source_id": "01caed1c-73fd-4c83-ac9b-36d246cb1815",
+  "set": "Unknown",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "[Cut or edit made in tape]."
+        },
+        {
+          "text": "Unknown"
+        }
+      ],
+      "tags": [],
+      "uuid": "083c1217-343b-46fb-aefc-9a2840d1606a"
+    }
+  ]
+}

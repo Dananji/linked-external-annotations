@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "01caed1c-73fd-4c83-ac9b-36d246cb1815": {
+      "label": "AV File 1",
+      "file_url": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/john_wieners_i006-11-119.mp3",
+      "duration": 1302
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-07T15:57:16.513Z",
+  "created_by": "Dananji",
+  "item_type": "Audio",
+  "label": "John Wieners at Sir George Williams University, The Poetry Series, 8 October 1966",
+  "updated_at": "2025-05-07T15:57:16.513Z",
+  "updated_by": "Dananji"
+}

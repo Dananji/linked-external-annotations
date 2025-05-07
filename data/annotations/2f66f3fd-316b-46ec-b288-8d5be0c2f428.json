@@ -1,0 +1,571 @@
+{
+  "event_id": "0d547d7f-8bb4-49c6-ae3a-c047df9c172e",
+  "source_id": "01caed1c-73fd-4c83-ac9b-36d246cb1815",
+  "set": "John Wieners",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "\"Invitation Au Voyage: II\". Do you know that poem of Baudelaire's "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q501",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": "? It's something at the end of the world. He’s speaking to his beloved, very simple. You know, lots of the German Romanticism was very simple."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7355a4c-201f-4520-901d-2e6d089cc898"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"Invitation Au Voyage: II\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "778b15b1-e15b-42d9-9bee-91805788d469"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Well let's go back to the old poems then, that have been published. Stuart Montgomery, well it doesn't matter. But that--I can send it off to England "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q21",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " to the Fulcrum Press "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q5507820",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " doing a lot of Basil Bunting "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q2886803",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " and the English poet of 65, resuscitated in America "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q30",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " again, it's about time."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "e1d2656d-62f0-4f99-8055-dbf06728b493"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"Long Nook\" [from Ace of Pentacles]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "1e6bc36e-9c46-468c-bf3b-be71b8cbb36e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "I'll just make random choices. \"At Big Sur\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "e43ebf33-9e42-44e9-a348-2f1355e4ba8d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"At Big Sur” [from Ace of Pentacles]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "71c03356-81df-4505-b359-3b4a30310c79"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "\"Louise\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "3077cfd2-a62b-465b-8915-f049e847ca2d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"Louise\" [from Ace of Pentacles]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "07b131ce-ced3-4384-8a61-d64ca08379f2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "\"The Pool of Light\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "842d3475-789d-4d87-b5d7-8ca842ed0186"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"The Pool of Light\" [from Ace of Pentacles]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac089d9c-ba21-4403-a203-09fda3dffd19"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "For Mari--No, this is “For Marion\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "372620ff-cc7b-49f8-ba5c-f68fd473e903"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"For Marion\" [from Ace of Pentacles]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "28234c56-7cbb-424e-badb-c4e16017c86d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "“The Mermaid Song”, forgive me for this, I thought the other poems would carry me through, but I'm reading and keeping with the mood for tonight, it seems to be more lyrical. \"The Serpent's Hiss\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "77b6ee38-fee3-48e1-bd75-57ab17c6f54a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"The Serpent's Hiss\" [published later in Selected Poems, 1958-1984]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "8f57a9ba-f3c3-42e0-be3a-6fc088f9ffe2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "And this is called \"Tuesday, 5 pm\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "73cf2649-7415-4801-913f-a0e9b5ec9959"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"Tuesday, 5 pm\" [published later as “Tuesday 7:00 PM” in Selected Poems, 1958-1984]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "55947bf6-bec0-4ada-aed0-96da2a711400"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "I'm going to read the \"The Imperatrice\". Ace of Pentacles is a card in the Tarot deck, but the book should be called ‘pente’ which all the words that appeared in a hypnagogic vision, hypnagogic is the state between waking and sleeping, it's what Jung "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q41532",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " practiced and his Marie Louise Franz would take down the things that came to him in the state between waking and sleeping and the letters ‘pente’ appeared in that state and I didn't know what they meant so I kept hunting around and I made the word 'pinnacles' out of it and somebody said why don't you call it \"Ace of Pinnacles\" and we made a whole thing about the Tarot deck, but that's not the title of the book. It should be ‘pente’ and that's from the Greek  which is ‘wall’. And I'd like have as a fronts piece for the book William Blake's "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q41513",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " \"The Chimney Sweep\"  "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q2587725",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " the second version of that from the \"Songs of Experience\" "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q27890603",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " when he says that my mum and father have gone up to the church to pray and they make a heaven of my misery. That kind of thing. Imperatrice there's another card from the Tarot deck it's the third card of the deck."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "43c65dc0-505c-4f85-99f3-727267781646"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"The Imperatrice\" [published later in Selected Poems, 1958-1984]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "2b35bafd-c066-4aba-b3b0-172812d2c2f2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "There is something else I thought I'd like to read after that one. I'll read a poem for Sylvia Plath "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q133054",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " who was an American poet who married an English man, Ted Hughes "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q272194",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " and had mental troubles and wrote a novel about it called The Bell Jar "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q1213085",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " under a pseudonym Victoria Lucas, so not to embarrass her mother, and then things became too much for her and I think in 1963, she did away with herself in London "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q84",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": ", and it was a great loss, some people feel that and some do not, they feel that at least--Lowell has written an introduction to her poems posthumously printed called Ariel "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q224733",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " and her first book was The Colossus "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q29889462",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": ". But Victoria Lucas was, The Bell Jar, was, you could buy it through William Hiderman and it came down from Canada "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q16",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " to the United States and it's never been printed in the country. This is \"The Suicide\"."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "204e3d11-cf21-4e1c-b6f1-0c51de2e9564"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"The Suicide\" [published later in Selected Poems, 1958-1984]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "dccbb46c-f373-467b-80c2-7ae907f6c939"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Let's read some happy poems, I'm getting depressed."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "6415fc50-6a56-4ca1-8972-85e3890c8390"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads \"Ode on a Common Fountain\" [from Ace of Pentacles; recording jumps to mid-poem]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "954f3602-7ccc-47e6-a19a-6b4103167bef"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "That's the first poem, I ever, I was twenty, so that was twelve years ago, that poem was written. Now I can go back--I'm still writing about Acis "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q419156",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " and Galatea "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q241070",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " but these are terribly sentimental and distraught, drunken poems, you can call them. Maybe we'll have one more, or is that anything from that first reading that you'd like to hear again? I'd rather not go into it. [Unknown audience member suggests poem. Title unintelligible]. Okay, that's what Spender "
+        },
+        {
+          "type": "link",
+          "url": "https://www.wikidata.org/wiki/Q448764",
+          "children": [
+            {
+              "text": "w"
+            }
+          ]
+        },
+        {
+          "text": " did say to me, he said you look like a de-frocked priest, so. Which I thought was awfully cruel, but I think I am one, my sister was a nun, I'll be a priest. Poets are priests, you know."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "38c95659-05b9-4944-93f4-664c143958d3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Reads “There are holy orders in life...” [published later in Selected Poems, 1958-1984]."
+        },
+        {
+          "text": "John Wieners"
+        }
+      ],
+      "tags": [],
+      "uuid": "65de121c-e687-42e6-899a-8eaa381615c9"
+    }
+  ]
+}
